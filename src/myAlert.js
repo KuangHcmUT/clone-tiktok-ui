@@ -1,5 +1,3 @@
-
-
 const myAlert = () => {
     alert('message from myAlert.js');
 };
